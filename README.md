@@ -2,11 +2,11 @@
 
 Main takeaway: This curated set covers fundamentals to advanced, with precise explanations, Android-focused patterns, and cross-question answers to help ace interviews and deepen real-world understanding.
 
-Note: Organized by topics aligning with the course chapters. Each item includes the main answer and two cross-questions with answers.
+Note: Organized by topics. Each item includes the main answer and two cross-questions with answers.
 
 ***
 
-## Chapter 1: Coroutine Fundamentals
+## Coroutine Fundamentals
 
 ### 1) What are Kotlin Coroutines and how do they differ from threads?
 
@@ -106,7 +106,7 @@ Cross Q2: How do dispatchers manage efficient thread allocation?
 
 ***
 
-## Chapter 2: Coroutine Builders
+## Coroutine Builders
 
 ### 6) What are coroutine builders? Name three.
 
@@ -196,7 +196,7 @@ Cross Q2: Test suspending functions without runBlocking?
 
 ***
 
-## Chapter 3: Cancellation and Exceptions
+## Cancellation and Exceptions
 
 ### 11) What is cooperative cancellation?
 
@@ -302,7 +302,7 @@ Cross Q2: Implement retry with timeout?
 
 ***
 
-## Chapter 4: Composing Suspending Functions
+## Composing Suspending Functions
 
 ### 17) Default execution model inside a coroutine
 
@@ -381,7 +381,7 @@ Cross Q2: Deciding concurrency limits?
 
 ***
 
-## Chapter 5: Scope, Context, Dispatchers
+## Scope, Context, Dispatchers
 
 ### 21) What is CoroutineScope and why important?
 
